@@ -1,3 +1,4 @@
+<p><img align="center" src="https://github.com/Satendra9984/Satendra9984/assets/81842437/808be313-f45c-4571-894f-63af943d77e5" width=1400 height=250 style="border-radius:0.8%"/></p>
 <h1 align="center">Hi 👋, I'm Satendra Pal</h1>
 <h3 align="center">I Build Tech Solutions.</h3>
 
